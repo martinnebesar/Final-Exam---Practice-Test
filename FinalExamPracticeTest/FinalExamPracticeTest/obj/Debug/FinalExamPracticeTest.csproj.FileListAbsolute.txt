@@ -1,0 +1,7 @@
+C:\Martin\FinalExamPracticeTest\FinalExamPracticeTest\bin\Debug\FinalExamPracticeTest.exe.config
+C:\Martin\FinalExamPracticeTest\FinalExamPracticeTest\bin\Debug\FinalExamPracticeTest.exe
+C:\Martin\FinalExamPracticeTest\FinalExamPracticeTest\bin\Debug\FinalExamPracticeTest.pdb
+C:\Martin\FinalExamPracticeTest\FinalExamPracticeTest\obj\Debug\FinalExamPracticeTest.csprojAssemblyReference.cache
+C:\Martin\FinalExamPracticeTest\FinalExamPracticeTest\obj\Debug\FinalExamPracticeTest.csproj.CoreCompileInputs.cache
+C:\Martin\FinalExamPracticeTest\FinalExamPracticeTest\obj\Debug\FinalExamPracticeTest.exe
+C:\Martin\FinalExamPracticeTest\FinalExamPracticeTest\obj\Debug\FinalExamPracticeTest.pdb
